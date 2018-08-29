@@ -1,4 +1,4 @@
-// lorenzolargent
+// Lorenzo Largent
 /*
  * First and Last Names
  */
@@ -13,7 +13,7 @@ public class Homework0 {
 		// The S in System needs to be capitalized; it is a special
 		//  case of a time when we access members of a class rather
 		//  than an object
-		system.net.println("Hello, World");
+		System.out.println("Hello, World");
 
 	}
 
